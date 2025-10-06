@@ -21,17 +21,9 @@
   Telegram-бот на Go с интеграцией LLaMA для генерации ответов и MongoDB для хранения истории чатов. Поддерживает текстовые запросы с JWT-аутентификацией.  
   **Технологии**: Go, Telegram Bot API, LLaMA, MongoDB, JWT.  
 
-- **[anarchy-core](https://github.com/alex-pyslar/anarchy-core)**  
-  WebSocket-сервер на Go для многопользовательской игровой платформы. Управляет игроками, сущностями, инвентарем и миром с PostgreSQL, Redis и JWT.  
-  **Технологии**: Go, WebSocket, PostgreSQL, Redis, JWT.  
-
 - **[petelka-api](https://github.com/alex-pyslar/petelka-api)**  
   RESTful API на Go для интернет-магазина. Управляет пользователями, продуктами, категориями, заказами и комментариями с PostgreSQL, Redis, JWT и Prometheus.  
   **Технологии**: Go, PostgreSQL, Redis, JWT, Prometheus, Gorilla Mux.  
-
-- **[Tectonix](https://github.com/alex-pyslar/Tectonix)**  
-  Мод для Minecraft на Fabric, добавляющий тектоновую и ксенонитовую руды, дрель, резак и генератор.  
-  **Технологии**: Java, Minecraft Fabric.  
 
 - **[NeuroChatBot](https://github.com/alex-pyslar/NeuroChatBot)**  
   Telegram-бот на C# для общения с нейросетью с возможностью смены персонажей и стилей диалога.  
