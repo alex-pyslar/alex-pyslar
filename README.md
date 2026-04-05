@@ -1,30 +1,145 @@
-# Привет, я Александр Пысларь! 👾
+# Александр Пысларь
+**Backend Developer (Go / Java)**
 
-## Обо мне
+📍 Москва, Россия  
+📬 alexpyslar03@gmail.com  
+🔗 GitHub: https://github.com/alex-pyslar  
+🔗 Telegram: @alex_pyslar  
 
-Я разработчик из Москвы с опытом создания веб-сервисов, игр и ИИ-приложений. Работаю с Go, Java, Kotlin, C# и другими технологиями, решая задачи от проектирования API до интеграции нейросетей. Стремлюсь к чистому коду и надежным решениям.
+---
 
-- 🌍 Россия, Москва
-- 📬 Email: [alexpyslar03@gmail.com](alexpyslar03@gmail.com)
-- 🔗 Telegram: [@alex_pyslar](http://t.me/alex_pyslar)
-- 🔗 GitHub: [alex-pyslar](https://github.com/alex-pyslar)
+## О себе
 
-## Мои проекты
+Backend-разработчик с опытом разработки корпоративных систем, микросервисов и интеграционных решений.
 
-Вот несколько проектов, которые отражают мой подход к разработке:
+Основной стек — **Go и Java (Spring)**. Работал с высоконагруженными системами, обработкой данных и построением распределённых сервисов.
 
-- **[VoidQuest](https://github.com/alex-pyslar/VoidQuest)**
-  ММО РПГ игрп
-  **Технологии**: C#, Godot.
+Фокусируюсь на архитектуре, надёжности и понятной бизнес-логике. Есть опыт работы в команде по **Agile/Scrum-процессам**.
 
-- **[petelka-api](https://github.com/alex-pyslar/petelka-api)**  
-  RESTful API на Go для интернет-магазина. Управляет пользователями, продуктами, категориями, заказами и комментариями с PostgreSQL, Redis, JWT и Prometheus.  
-  **Технологии**: Go, PostgreSQL, Redis, JWT, Prometheus, Gorilla Mux.  
+---
 
-- **[DreamSynth](https://github.com/alex-pyslar/DreamSynth)**
-  Система для синтеза и обработки звуковых композиций.  
-  **Технологии**: C#.  
+## Опыт работы
 
-- **[ThreeMatchOneHummerApp](https://github.com/alex-pyslar/ThreeMatchOneHummerApp)**  
-  Android-игра "три в ряд" на Jetpack Compose. Игроки создают комбинации и улучшают пассивный доход.  
-  **Технологии**: Kotlin, Jetpack Compose.  
+### Iteco — Backend Developer
+
+#### АС ЦККИ (Центральный каталог кредитных историй, Банк России)
+
+- Разрабатывал backend-логику системы обработки кредитных историй  
+- Работал с **Oracle Database**: сложные SQL-запросы, транзакции, оптимизация  
+- Участвовал в формировании кредитных отчётов и обработке запросов  
+- Разрабатывал сервисы на **Java EE и Spring**  
+- Интегрировал систему с внешними сервисами (ЕПГУ)  
+- Участвовал в разработке аналитической БД для расчёта кредитного рейтинга  
+- Работал в команде по **Agile (Scrum)**: участие в планировании, дейли-митингах, декомпозиции задач  
+
+**Стек:** Java EE, Spring, Oracle, SQL  
+
+---
+
+#### MDM система (проект для департамента Москвы)
+
+- Доработка MDM-системы под требования заказчика  
+- Разработка backend на **Java (Spring Boot)**  
+- Реализация системы журналирования на **MongoDB**  
+- Связывание данных между **PostgreSQL и MongoDB**  
+- Разработка дашбордов в **Grafana**  
+- Интеграция с **Kafka**  
+- Работа с **Keycloak (OAuth2, mosID)**  
+
+**Go-сервисы:**
+- Сервис сбора данных со счётчиков  
+- Сервис расчёта заправок (ClickHouse)  
+- Сервис поддержки для корректировки данных  
+
+**Инфраструктура:**
+- Настройка **CI/CD (GitLab CI)**  
+- Развёртывание через **Docker / Docker Compose**  
+
+**Командная работа:**
+- Работа по **Scrum** (спринты, планирование, ретроспективы)  
+- Взаимодействие с аналитиками и frontend-разработчиками  
+- Участие в обсуждении архитектурных решений  
+
+**Стек:** Java, Spring Boot, Go, PostgreSQL, MongoDB, ClickHouse, Kafka, Grafana, Keycloak, Docker  
+
+---
+
+## Коммерческие проекты
+
+### ERP Refresh  
+🔗 https://erp-autoservice.ru
+
+- Разработка backend-ядра на **Java (Spring Boot)**  
+- Проектирование бизнес-логики  
+- Работа с **PostgreSQL, Hibernate, Redis**  
+- Реализация JWT-аутентификации  
+- Настройка CI/CD и деплой через Docker  
+
+---
+
+### CosmiStudio  
+🔗 https://cosmistudio.art
+
+- Разработка backend на **Go**  
+- Реализация CRM (клиенты, проекты, зарплаты)  
+- Работа с PostgreSQL и Redis  
+- Docker + CI/CD  
+- Авторизация  
+
+---
+
+### Petelka  
+🔗 https://petelka.shop
+
+- Backend на **Go**  
+- REST API, OAuth  
+- PostgreSQL, Redis, MinIO  
+
+---
+
+### Alexcation  
+🔗 https://alexcation.ru
+
+- Backend на **Go**  
+- Сервис оплаты  
+- Частично frontend (React)  
+
+---
+
+## Pet-проекты
+
+### Orbitron (язык программирования)
+
+- Язык на **Rust**  
+- Интерпретатор и модель исполнения  
+- LLVM + JVM bytecode  
+- Стандартная библиотека  
+
+---
+
+### VoidQuest  
+🔗 https://alexpyslar.itch.io/voidquest
+
+- Мультиплеерная RPG  
+- Godot + C#  
+
+---
+
+## Навыки
+
+**Языки:** Go, Java  
+**Фреймворки:** Spring Boot, Hibernate, Gin, Gorilla
+**Базы данных:** PostgreSQL, Oracle, MongoDB, Redis, ClickHouse  
+**Архитектура:** Микросервисы, REST API, Распределённые системы  
+**Интеграции:** Kafka, OAuth2, Keycloak  
+**Инфраструктура:** Docker, CI/CD (GitLab)  
+**Процессы:** Agile, Scrum  
+
+---
+
+## Дополнительно
+
+- Опыт командной разработки  
+- Участие в планировании и декомпозиции задач  
+- Работа с требованиями и взаимодействие с аналитиками  
+- Опыт полного цикла разработки  
